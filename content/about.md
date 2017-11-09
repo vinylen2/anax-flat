@@ -1,10 +1,18 @@
-About this site
+Om
 ==============================================
 
-The primary focus of this site is to:
+###Kursen
+**Kursbeskrivnigen säger följande:**
+"_Kursen Teknisk webbdesign och användbarhet, a.k.a. design, lär webbprogrammeraren att tekniskt förbereda sin webbplats för design och användbarhet._".
 
-* To be used in teaching the [dbwebb course design](http://dbwebb.se/design).
+Jag ser personligen fram emot att angripa området design ur ett teoretiskt perspektiv. När jag designat mina hemsidor tidigare har jag nog, om jag tänker efter, undermedvetet anpassat mig efter _Jakob's law_. Oavsett känns det väldigt relevant att anta en mer teoretisk approach till designandet. 
 
-The source for this site is available on GitHub in [canax/anax-flat](git@github.com:canax/anax-flat.git).
+Jag hoppas vidare på att fördjupa mina CSS-kunskaper, det känns som att det är ett område som verkligen utvecklas av repetition - vilket jag får av BTH's kurser.
 
-This site is produced by [Mikael Roos](https://mikaelroos.se) (mos@dbwebb.se).
+
+
+###Länkar
+
+* [Github](https://github.com/vinylen2/anax-flat)
+
+* [Me-sida](http://www.student.bth.se/~gawa16/dbwebb-kurser/design/me/)
